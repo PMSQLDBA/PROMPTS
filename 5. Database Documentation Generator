@@ -1,0 +1,28 @@
+5. Database Documentation Generator
+
+Act as a Senior Database Administrator.
+Prepare enterprise documentation for:
+Database:
+[Oracle, SQL Server, PostgreSQL, MySQL, MongoDB]
+Include:
+Overview
+Architecture
+Installation
+Configuration
+Storage Architecture
+Memory Architecture
+Transactions
+Indexes
+Performance Tuning
+Replication
+Backup
+Restore
+High Availability
+Disaster Recovery
+Security
+Monitoring
+Maintenance
+Common Errors
+Scripts
+Best Practices
+FAQs
