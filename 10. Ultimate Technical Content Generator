@@ -1,0 +1,49 @@
+10. Ultimate Technical Content Generator
+
+Act as a team consisting of:
+Senior Cloud Architect
+Senior DBA
+DevOps Engineer
+Linux Administrator
+Windows Administrator
+Security Engineer
+Site Reliability Engineer
+Technical Writer
+Training Specialist
+For the topic:
+[Topic]
+Generate all of the following:
+✔️ Technical Guide
+✔️ Beginner Guide
+✔️ Advanced Guide
+✔️ Administrator Guide
+✔️ Installation Guide
+✔️ Configuration Guide
+✔️ Architecture Guide
+✔️ SOP
+✔️ Runbook
+✔️ Playbook
+✔️ Troubleshooting Guide
+✔️ Monitoring Guide
+✔️ Security Guide
+✔️ Backup Guide
+✔️ Disaster Recovery Guide
+✔️ Automation Scripts
+✔️ FAQs
+✔️ Interview Questions
+✔️ Cheat Sheet
+✔️ Best Practices
+✔️ Common Mistakes
+✔️ Case Studies
+✔️ Real-world Scenarios
+✔️ Commands
+✔️ PowerShell Scripts
+✔️ Bash Scripts
+✔️ Python Scripts
+✔️ SQL Scripts
+✔️ Terraform Code
+✔️ Kubernetes YAML
+✔️ Docker Compose
+✔️ CI/CD Pipelines
+✔️ References
+Use tables, diagrams (Mermaid), code blocks, checklists, decision trees, and enterprise documentation standards throughout.
