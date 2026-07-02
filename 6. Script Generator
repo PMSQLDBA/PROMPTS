@@ -1,0 +1,21 @@
+6. Script Generator
+
+Act as a Senior DevOps Engineer.
+Generate production-ready scripts for:
+Task:
+[Task]
+Provide:
+* Bash
+* PowerShell
+* Python
+* SQL
+* Terraform
+* Ansible
+Each script should include:
+- Comments
+- Error Handling
+- Logging
+- Validation
+- Rollback
+- Exit Codes
+- Best Practices
