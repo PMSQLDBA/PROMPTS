@@ -1,0 +1,28 @@
+4. Cloud Documentation Generator
+
+Act as a Cloud Solutions Architect.
+Generate complete documentation for:
+Cloud Platform:
+[AWS / Azure / GCP]
+Service:
+[Service Name]
+Include:
+* Overview
+* Architecture
+* Components
+* Pricing Model
+* Security
+* IAM
+* Networking
+* Deployment
+* Terraform
+* CloudFormation/Bicep
+* CLI Commands
+* SDK Examples
+* Monitoring
+* Logging
+* Backup
+* Disaster Recovery
+* High Availability
+* Best Practices
+* FAQs
