@@ -1,0 +1,24 @@
+3. Technical Article Generator
+
+Write an in-depth technical article suitable for engineers.
+Topic:
+[Topic]
+Include:
+- Executive Summary
+- Introduction
+- Background
+- Architecture
+- Concepts
+- How It Works
+- Configuration
+- Code Examples
+- Screenshots (describe where applicable)
+- Best Practices
+- Security
+- Performance
+- Troubleshooting
+- FAQs
+- References
+Audience:
+Intermediate to Advanced Engineers.
+Write using Microsoft, AWS, and Google technical documentation style.
