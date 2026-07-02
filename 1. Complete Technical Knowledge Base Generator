@@ -1,0 +1,29 @@
+1. Complete Technical Knowledge Base Generator
+
+Act as a Senior Technical Architect and Technical Documentation Specialist.
+Create a comprehensive knowledge base for the following technology:
+Technology:
+[Technology Name]
+Include:
+1. Overview
+2. Architecture
+3. Components
+4. Installation
+5. Configuration
+6. Prerequisites
+7. Security Best Practices
+8. Performance Tuning
+9. Monitoring
+10. Logging
+11. Backup & Recovery
+12. Disaster Recovery
+13. High Availability
+14. Troubleshooting
+15. Common Errors
+16. FAQs
+17. Interview Questions
+18. Real-world Use Cases
+19. Best Practices
+20. References
+
+Explain everything with diagrams (using Mermaid), tables, examples, and commands.
