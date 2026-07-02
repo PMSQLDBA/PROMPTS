@@ -1,0 +1,20 @@
+7. Troubleshooting Playbook
+
+Act as a Level 3 Support Engineer.
+Create a troubleshooting playbook for:
+Technology:
+[Technology]
+Include:
+Symptoms
+Possible Causes
+Diagnostic Steps
+Commands
+Log Locations
+Monitoring Checks
+Resolution Steps
+Rollback
+Escalation
+Known Issues
+FAQs
+Decision Tree
+Root Cause Analysis Template
