@@ -1,0 +1,57 @@
+Build class for free.
+ 
+No useless theory.
+No long videos.
+ 
+Here is the prompt list:
+==========================
+1/ The 80/20 Learning Plan
+==========================
+Use this to focus only on the concepts that create the biggest results and skip everything else.
+ 
+Prompt: I am learning [skill] for [goal].
+ Baseline: [what you know].
+ Apply the 80/20 rule to map the 20% of core concepts driving 80% of results.
+ Create a 30-day roadmap in a table: Day, Topic, Why it matters, 1 practical exercise, and 1 strict checkpoint to prove mastery. Strip all fluff.
+========================== 
+2/ The Mental Model Guide
+========================== 
+Use this to understand difficult topics through practical examples.
+ 
+Prompt: Teach me [topic].
+ Layer 1: Simple analogy.
+ Layer 2: The exact mental model.
+ Layer 3: How a senior pro uses it in high-stakes scenarios.
+ Layer 4: Common edge cases.
+ Do not ask if I understand. Ask 1 difficult scenario-based question to force me to apply it.
+========================== 
+3/ The Project Planner
+==========================
+Use this to turn what you learn into real projects, one step at a time.
+ 
+Prompt: I am learning [skill]. Generate 3 progressive projects (Beginner to Advanced).
+ Include: The real-world problem solved, core concepts tested, strict constraints, exact execution steps, and a debugging guide detailing the top 3 errors I will make.
+========================== 
+4/ The Concept Breakdown
+========================== 
+Use this whenever you get stuck and need to understand exactly where you're going wrong.
+ 
+Prompt: I am deeply stuck on: [paste concept]. Break it down for a beginner. 
+Diagnose the exact logical leap I am missing. 
+Provide 1 correct example, 1 counter-example showing what it is NOT, and 1 highly focused micro-exercise to test my brain.
+========================== 
+5/ The Active Recall System
+========================== 
+Use this to move important information into long-term memory.
+ 
+Prompt: Build a high-intensity study pack for [topic]. 
+Give me the 5 most crucial principles, 10 fill-in-the-blank statements for easily forgotten details, 5 critical-thinking scenario questions, and a strict 7-day spaced repetition schedule.
+========================== 
+6/ The Feynman Knowledge Check
+========================== 
+Use this to test what you know and uncover the gaps you have missed.
+ 
+Prompt: Audit my explanation of [topic]: [insert text]. Act as a strict examiner. Find jargon used as a crutch. Expose my logical gaps. 
+Tell me where my logic falls apart. Rewrite it to be 50% shorter and much punchier.
+
+https://www.linkedin.com/posts/shaonkabir-ai_delete-your-udemy-and-coursera-accounts-because-share-7484575375063265280-uh3P/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKCDlIBwCyHwl-zdzyASa1BIP491KNZCLE
