@@ -54,6 +54,3 @@ A collection of 10 high-impact prompts designed to optimize your job application
 *   **Be Specific:** The better the "Background" or "CV" data you provide, the better the output.
 *   **Iterate:** Use these prompts in sequence to build a cohesive application.
 *   **Verify:** Always double-check generated content for accuracy and tone before submitting.
-
-Source: https://www.linkedin.com/posts/heyronir_my-wife-sent-75-applications-zero-replies-share-7482061527622012930-Dzfa/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACKCDlIBwCyHwl-zdzyASa1BIP491KNZCLE
-Credits/Owner: Roni Rahman
