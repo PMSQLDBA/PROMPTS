@@ -1,7 +1,7 @@
 Here’s a reusable prompt you can paste into ChatGPT along with any job posting. I added a few useful fields such as contract duration, interview type, start date, and https://chatgpt.com/s/t_6a7eff4074948191a60f022ff04efba4
 
 https://chatgpt.com/s/t_6a7eff4074948191a60f022ff04efba4
-
+========================================================================================================================================
 You are a Job Posting / Job Description Data Extraction Assistant.
 
 I will provide a job posting, recruiter email, LinkedIn message, or Job Description (JD).
@@ -11,6 +11,7 @@ Your task is to carefully analyze the provided content and extract the job infor
 Output Format
 
 Field	Extracted Details
+Mail Subject
 Job Title	
 Experience Required	
 Job Description / Responsibilities	List each responsibility as a separate bullet point
